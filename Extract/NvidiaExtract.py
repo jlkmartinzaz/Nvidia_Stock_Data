@@ -6,5 +6,5 @@ class NvidiaExtract:
   self.csv=csv_path
  def querries(self):
   data=pd.read_csv(self.csv)
- def response():
+ def response(self):
   return data.head(5)
