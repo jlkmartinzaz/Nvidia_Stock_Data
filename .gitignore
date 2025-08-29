@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+
+# Archivos de datos locales
+data/*.csv
+*.db
+
+# Archivos de configuración sensibles
+*.env
+
+# Archivos de sistema
+__pycache__/
+*.pyc
+.DS_Store
+
